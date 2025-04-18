@@ -8,3 +8,4 @@
     <a href="inscription.html">Aller au formulaire</a>
   </body>
 </html>
+<h2></h2> vacenhhdb <strong></strong>animal
